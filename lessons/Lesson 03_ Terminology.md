@@ -1,16 +1,14 @@
-Systems: Lesson 3
+# Terminology
 
-Terminology
-
-# Introduction
-
+## Lesson Purpose
 The purpose of this lesson is to practice perhaps the single most effective technique for identifying the important concepts within a system.  That technique is simply to pay attention to the special words that a system expert uses to describe the objects, relationships and behaviors of the system.
 
+## What is an Expert?
 The concept of system expert bears some explaining.  In most cases, all it really means is someone who has experience operating within the system.  Sometimes this individual will have particular credentials documenting his expertise but the lack of formal credentials does not necessarily mean a lack of expertise.  However, it does mean a different point of view.  A difference that we can detect by listening to the technical words each uses.  For example, in Arcadia we have Bernard, a don or professor of literature and we have Hannah, a self-taught author.  Both are experts on a similar historical period but both talk about it--describe the details of it--with distinct vocabularies where some words overlap in meaning and others do not.
 
 These kinds of specialized vocabularies go by many names such as terminology, nomenclature, lexicon, lingo or, more pejoratively, jargon.  The relevance for the system thinker, however, is that the these collections of labels and the meanings assigned to them are immensely revealing with respect to the understanding of the system by the individuals who inhabit or study it. 
 
-# Objective
+## Objective
 
 Your objective in this lesson is to 
 
